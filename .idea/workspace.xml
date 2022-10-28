@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="feae2e5f-6091-46fc-8455-8f2f58ce3609" name="Changes" comment="Okey my first two tasks in this platform. It was hard.">
+    <list default="true" id="feae2e5f-6091-46fc-8455-8f2f58ce3609" name="Changes" comment="Task Interface (takeOn and Off clothes) compled">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -12,6 +12,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Enum" />
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -40,7 +42,7 @@
     &quot;last_opened_file_path&quot;: &quot;R:/Необходимое/AN14-Android&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.StartTheSystemOfCards">
+  <component name="RunManager" selected="Application.Run">
     <configuration name="CreatePhoneNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Codewars.CreatePhoneNumber" />
       <module name="JavaLearn" />
@@ -67,12 +69,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="IntegerToRoman" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Leetcode.IntegerToRoman" />
+    <configuration name="RUN" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CheckPackage.RUN" />
       <module name="JavaLearn" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Leetcode.*" />
+          <option name="PATTERN" value="CheckPackage.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -80,12 +82,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="JustTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="CheckPackage.JustTest" />
+    <configuration name="Run" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="TMSTasks.TheMan.Run" />
       <module name="JavaLearn" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="CheckPackage.*" />
+          <option name="PATTERN" value="TMSTasks.TheMan.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -108,11 +110,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Run" />
+        <item itemvalue="Application.RUN" />
         <item itemvalue="Application.StartTheSystemOfCards" />
         <item itemvalue="Application.CreatePhoneNumber" />
         <item itemvalue="Application.IntToString" />
-        <item itemvalue="Application.IntegerToRoman" />
-        <item itemvalue="Application.JustTest" />
       </list>
     </recent_temporary>
   </component>
@@ -132,7 +134,14 @@
       <option name="project" value="LOCAL" />
       <updated>1666609435469</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="TMS task. BankCards class (3 level of inheritance).">
+      <created>1666776824683</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1666776824683</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -148,6 +157,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Okey my first two tasks in this platform. It was hard." />
-    <option name="LAST_COMMIT_MESSAGE" value="Okey my first two tasks in this platform. It was hard." />
+    <MESSAGE value="TMS task. BankCards class (3 level of inheritance)." />
+    <option name="LAST_COMMIT_MESSAGE" value="TMS task. BankCards class (3 level of inheritance)." />
   </component>
 </project>
