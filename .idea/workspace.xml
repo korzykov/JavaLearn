@@ -70,11 +70,11 @@
       </method>
     </configuration>
     <configuration name="Run" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="TMSTasks.TheMan.Run" />
+      <option name="MAIN_CLASS_NAME" value="TMSTasks.TheHuman.Run" />
       <module name="JavaLearn" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="TMSTasks.TheMan.*" />
+          <option name="PATTERN" value="TMSTasks.TheHuman.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>

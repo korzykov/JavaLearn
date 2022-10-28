@@ -1,4 +1,4 @@
-package TMSTasks.TheMan;
+package TMSTasks.TheHuman;
 
 public interface T_Shirt {
     default void takeOffT_Shirt() {

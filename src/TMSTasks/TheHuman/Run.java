@@ -1,4 +1,4 @@
-package TMSTasks.TheMan;
+package TMSTasks.TheHuman;
 
 public class Run {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package TMSTasks.TheMan;
+package TMSTasks.TheHuman;
 
 public class Human implements Trousers, T_Shirt {
     private String name;
