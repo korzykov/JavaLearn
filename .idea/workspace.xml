@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="feae2e5f-6091-46fc-8455-8f2f58ce3609" name="Changes" comment="Task ComputerError Random (when we try turn on it)">
+    <list default="true" id="feae2e5f-6091-46fc-8455-8f2f58ce3609" name="Changes" comment="Task ShuttleAndSpaceport where we can start your shuttle in SPACE.">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -42,7 +42,7 @@
     &quot;last_opened_file_path&quot;: &quot;R:/Необходимое/AN14-Android&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.TMSTasks.ShuttleAndSpaceport.RUN">
+  <component name="RunManager" selected="Application.TwoSum">
     <configuration name="RUN" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="CheckPackage.RUN" />
       <module name="JavaLearn" />
@@ -62,19 +62,6 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="TMSTasks.TheHuman.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="StartTheSystemOfCards" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="TMSTasks.BankCards.StartTheSystemOfCards" />
-      <module name="JavaLearn" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="TMSTasks.BankCards.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -108,13 +95,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="TwoSum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Leetcode.TwoSum" />
+      <module name="JavaLearn" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Leetcode.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.TwoSum" />
         <item itemvalue="Application.TMSTasks.ShuttleAndSpaceport.RUN" />
         <item itemvalue="Application.TMSTasks.Computer.RUN" />
         <item itemvalue="Application.Run" />
         <item itemvalue="Application.RUN" />
-        <item itemvalue="Application.StartTheSystemOfCards" />
       </list>
     </recent_temporary>
   </component>
@@ -162,7 +162,14 @@
       <option name="project" value="LOCAL" />
       <updated>1666965862858</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Task ShuttleAndSpaceport where we can start your shuttle in SPACE.">
+      <created>1666976112010</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1666976112010</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -181,6 +188,7 @@
     <MESSAGE value="TMS task. BankCards class (3 level of inheritance)." />
     <MESSAGE value="Task Interface (takeOn and Off clothes) compled" />
     <MESSAGE value="Task ComputerError Random (when we try turn on it)" />
-    <option name="LAST_COMMIT_MESSAGE" value="Task ComputerError Random (when we try turn on it)" />
+    <MESSAGE value="Task ShuttleAndSpaceport where we can start your shuttle in SPACE." />
+    <option name="LAST_COMMIT_MESSAGE" value="Task ShuttleAndSpaceport where we can start your shuttle in SPACE." />
   </component>
 </project>
