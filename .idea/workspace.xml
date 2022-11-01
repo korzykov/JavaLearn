@@ -1,8 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="feae2e5f-6091-46fc-8455-8f2f58ce3609" name="Changes" comment="Task ShuttleAndSpaceport where we can start your shuttle in SPACE.">
+    <list default="true" id="feae2e5f-6091-46fc-8455-8f2f58ce3609" name="Changes" comment="Given an array of integers nums and an integer target, return indices of he two numbers such that they add up to target">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Leetcode/IntegerToRoman.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Leetcode/IntegerToRoman.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,13 +43,13 @@
     &quot;last_opened_file_path&quot;: &quot;R:/Необходимое/AN14-Android&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.TwoSum">
-    <configuration name="RUN" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="CheckPackage.RUN" />
+  <component name="RunManager" selected="Application.IntegerToRoman">
+    <configuration name="IntegerToRoman" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Leetcode.IntegerToRoman" />
       <module name="JavaLearn" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="CheckPackage.*" />
+          <option name="PATTERN" value="Leetcode.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -110,11 +111,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.IntegerToRoman" />
         <item itemvalue="Application.TwoSum" />
         <item itemvalue="Application.TMSTasks.ShuttleAndSpaceport.RUN" />
         <item itemvalue="Application.TMSTasks.Computer.RUN" />
         <item itemvalue="Application.Run" />
-        <item itemvalue="Application.RUN" />
       </list>
     </recent_temporary>
   </component>
@@ -169,7 +170,14 @@
       <option name="project" value="LOCAL" />
       <updated>1666976112010</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Given an array of integers nums and an integer target, return indices of he two numbers such that they add up to target">
+      <created>1667299520076</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1667299520076</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -189,6 +197,7 @@
     <MESSAGE value="Task Interface (takeOn and Off clothes) compled" />
     <MESSAGE value="Task ComputerError Random (when we try turn on it)" />
     <MESSAGE value="Task ShuttleAndSpaceport where we can start your shuttle in SPACE." />
-    <option name="LAST_COMMIT_MESSAGE" value="Task ShuttleAndSpaceport where we can start your shuttle in SPACE." />
+    <MESSAGE value="Given an array of integers nums and an integer target, return indices of he two numbers such that they add up to target" />
+    <option name="LAST_COMMIT_MESSAGE" value="Given an array of integers nums and an integer target, return indices of he two numbers such that they add up to target" />
   </component>
 </project>
